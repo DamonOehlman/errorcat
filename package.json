@@ -1,0 +1,25 @@
+{
+  "name": "errorcat",
+  "version": "0.0.0",
+  "description": "Error Pages for BigPipe applications starring cats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/errorcat.git"
+  },
+  "keywords": [
+    "bigpipe"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/errorcat/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/errorcat",
+  "dependencies": {
+    "bigpipe": "^0.5.0"
+  }
+}
