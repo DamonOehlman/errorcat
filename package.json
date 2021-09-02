@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/DamonOehlman/errorcat",
   "dependencies": {
-    "bigpipe": "^0.5.0"
+    "bigpipe": "^0.9.5"
   }
 }
